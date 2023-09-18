@@ -1,6 +1,6 @@
 {
     "name": "gbpkg-project",
-    "author": "Ludwig",
+    "author": "gbpkg",
     "_version": "3.1.0",
     "_release": "0",
     "scenes": [],
