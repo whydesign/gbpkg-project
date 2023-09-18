@@ -1,0 +1,206 @@
+{
+  "gbsPlugins": {
+    "Y0UR-U5ERNAME/actorSetCollisionBoxPlugin": {
+      "plugin": "actorSetCollisionBoxPlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/actorSetCollisionBoxPlugin/events/eventActorSetCollisionBox.js",
+      "gbsVersion": 3.0,
+      "description": "Sets the collision box of an actor without having to change spritesheets.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/advancedMathPlugin": {
+      "plugin": "advancedMathPlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/advancedMathPlugin/events/eventAdvancedMath.js",
+      "gbsVersion": 3.0,
+      "description": "Includes Square Root, Sine Scale, and Cosine Scale.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/changeSceneNoFadePlugin": {
+      "plugin": "changeSceneNoFadePlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/changeSceneNoFadePlugin/events/eventSceneSwitchNoFade.js",
+      "gbsVersion": 3.0,
+      "description": "Changes the scene without fading, causing glitchy effects usually.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/dialogueNameTagLargeAvatarPlugin": {
+      "plugin": "dialogueNameTagLargeAvatarPlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/dialogueNameTagLargeAvatarPlugin/events/eventDialogueNameLargeAvatar.js",
+      "gbsVersion": 3.0,
+      "description": "Allows a dialogue to have a name tag and/or a large avatar made of text.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/getSystimePlugin": {
+      "plugin": "getSystimePlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/getSystimePlugin/events/eventGetSystime.js",
+      "gbsVersion": 3.0,
+      "description": "Stores the system time (the number of frames since game started running) inside a variable.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/masterVolumePlugin": {
+      "plugin": "masterVolumePlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/masterVolumePlugin/events/eventSetMasterVolume.js",
+      "gbsVersion": 3.0,
+      "description": "Sets the master volume, affecting all music and sounds.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/setMusicPosPlugin": {
+      "plugin": "setMusicPosPlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/setMusicPosPlugin/events/eventSetMusicPos.js",
+      "gbsVersion": 3.0,
+      "description": "Sets the music position (you can currently only set the pattern number).",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/setPaletteColorsPlugin": {
+      "plugin": "setPaletteColorsPlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/setPaletteColorsPlugin/events/eventSetPaletteColors.js",
+      "gbsVersion": 3.0,
+      "description": "Sets each of the individual colors of either the DMG or GBC palettes.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/transferSGBPacketPlugin": {
+      "plugin": "transferSGBPacketPlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/transferSGBPacketPlugin/events/eventTransferSGBPacket.js",
+      "gbsVersion": 3.0,
+      "description": "Transfers SGB packets for accessing SGB features.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "Y0UR-U5ERNAME/whileLoopPlugin": {
+      "plugin": "whileLoopPlugin",
+      "sourceUrl": "https://raw.githubusercontent.com/Y0UR-U5ERNAME/gbs-plugin-collection/main/plugins/whileLoopPlugin/events/eventWhileLoop.js",
+      "gbsVersion": 3.0,
+      "description": "Runs the following code as long as the condition is true.",
+      "author": "Y0UR-U5ERNAME",
+      "projectUrl": "https://github.com/Y0UR-U5ERNAME/gbs-plugin-collection"
+    },
+    "datguywitha3ds/MaxSFX": {
+      "plugin": "MaxSFX",
+      "sourceUrl": "https://raw.githubusercontent.com/datguywitha3ds/GB-Studio-3.1-Plugins/main/MaxSFX/events/eventMaxSFX.js",
+      "gbsVersion": 3.1,
+      "description": "This is a mod of Maximum SFX to be compatible with GB Studio 3.1's new sound driver, it should work the same once you drop it in the plugins folder.",
+      "author": "datguywitha3ds",
+      "projectUrl": "https://github.com/datguywitha3ds/GB-Studio-3.1-Plugins"
+    },
+    "datguywitha3ds/P82Toxa": {
+      "plugin": "P82Toxa",
+      "sourceUrl": "https://raw.githubusercontent.com/datguywitha3ds/GB-Studio-3.1-Plugins/main/P82Toxa/events/eventP82Toxa.js",
+      "gbsVersion": 3.1,
+      "description": "This plugin takes a PICO-8 sound effect clipboard string and translates it to the GB Studio 3.1 sound driver.",
+      "author": "datguywitha3ds",
+      "projectUrl": "https://github.com/datguywitha3ds/GB-Studio-3.1-Plugins"
+    },
+    "pau-tomas/AdvancedDialogue": {
+      "plugin": "AdvancedDialogue",
+      "sourceUrl": "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Advanced%20Dialogue/events/eventAdvancedDialogue.js",
+      "gbsVersion": 3.1,
+      "description": "Show a advanced dialogue box at the bottom of the game screen.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/AdvancedMenu": {
+      "plugin": "AdvancedMenu",
+      "sourceUrl": "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Advanced%20Menu/events/eventAdvancedMenu.js",
+      "gbsVersion": 3.1,
+      "description": "Display a menu of multiple options and set the specified variable to the value of the chosen option.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/BackgroundText": {
+      "plugin": "BackgroundText",
+      "sourceUrl": "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Background%20Text/events/eventBackgroundText.js",
+      "gbsVersion": 3.1,
+      "description": "Renders a line of text at a specified position in the scene background.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/CameraFields": {
+      "plugin": "CameraFields",
+      "sourceUrl": [
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Camera%20Fields/events/eventCameraFieldSet.js",
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Camera%20Fields/events/eventCameraFieldStore.js"
+      ],
+      "gbsVersion": 3.1,
+      "description": "Store or change the value of a Camera Field.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/MuteChannel": {
+      "plugin": "MuteChannel",
+      "sourceUrl": "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Mute%20Channel/events/eventMuteChannel.js",
+      "gbsVersion": 3.1,
+      "description": "Mutes one or more channels for the currently playing music.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/PlayerField": {
+      "plugin": "PlayerField",
+      "sourceUrl": [
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Player%20Fields/events/eventPlayerFieldSet.js",
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Player%20Fields/events/eventPlayerFieldStore.js"
+      ],
+      "gbsVersion": 3.1,
+      "description": "Store the value of a Player Field in a variable.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/PrintScreenBackground": {
+      "plugin": "PrintScreenBackground",
+      "sourceUrl": "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Printer/events/eventPrintScreenBackground.js",
+      "gbsVersion": 3.1,
+      "description": "Prints the visible background of the current scene using GB Printer.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/RealTimeClock": {
+      "plugin": "RealTimeClock",
+      "sourceUrl": [
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/RTC/events/eventRTCGet.js",
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/RTC/events/eventRTCSet.js",
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/RTC/events/eventRTCStart.js",
+        "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/RTC/events/eventRTCStop.js"
+      ],
+      "gbsVersion": 3.1,
+      "description": "A set of events that give access to the Real Time Clock functionality present in some GB cartridges.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "pau-tomas/SmoothFade": {
+      "plugin": "SmoothFade",
+      "sourceUrl": "https://raw.githubusercontent.com/pau-tomas/gb-studio-plugins/main/plugins/Smooth%20Fade/events/eventSmoothFade.js",
+      "gbsVersion": 3.1,
+      "description": "Fade some or all of the current scene's background or sprites palettes to or from a white or black screen, interpolating the color values for a smooth fade.",
+      "author": "pau-tomas",
+      "projectUrl": "https://github.com/pau-tomas/gb-studio-plugins"
+    },
+    "dochardware/MaximumSFX": {
+      "plugin": "MaximumSFX",
+      "sourceUrl": "https://raw.githubusercontent.com/dochardware/GBStudio-Plugins/main/MaxSFX/events/eventMaxiumSFX.js",
+      "gbsVersion": 3.0,
+      "description": "This plugin allows you to input hex values for a wider range of sound effects with a single event than the normal Play Sound event will let you.",
+      "author": "dochardware",
+      "projectUrl": "https://github.com/dochardware/GBStudio-Plugins"
+    },
+    "CCC200/MiniVariables16": {
+      "plugin": "MiniVariables16",
+      "sourceUrl": [
+        "https://raw.githubusercontent.com/CCC200/MiniVariables16/main/plugins/miniVariablesPlugin/events/eventGrab2BitVariable.js",
+        "https://raw.githubusercontent.com/CCC200/MiniVariables16/main/plugins/miniVariablesPlugin/events/eventGrab4BitVariable.js",
+        "https://raw.githubusercontent.com/CCC200/MiniVariables16/main/plugins/miniVariablesPlugin/events/eventGrab8BitVariable.js",
+        "https://raw.githubusercontent.com/CCC200/MiniVariables16/main/plugins/miniVariablesPlugin/events/eventSet2BitVariables.js",
+        "https://raw.githubusercontent.com/CCC200/MiniVariables16/main/plugins/miniVariablesPlugin/events/eventSet4BitVariables.js",
+        "https://raw.githubusercontent.com/CCC200/MiniVariables16/main/plugins/miniVariablesPlugin/events/eventSet8BitVariables.js"
+      ],
+      "gbsVersion": 3.1,
+      "description": "With this plugin you can break each variable into smallers sets of 2/4/8-bit variables to save on space.",
+      "author": "CCC200",
+      "projectUrl": "https://github.com/CCC200/MiniVariables16"
+    }
+  }
+}
